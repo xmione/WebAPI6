@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UaIaWlgozkZ40YQiTggo8ALgkA++kDKGiwXXtp/C6IE=",
+  "Source": "MoneyMe.API",
+  "BasePath": "_content/MoneyMe.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
